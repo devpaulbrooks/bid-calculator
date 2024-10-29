@@ -1,4 +1,4 @@
-## Bit Calculator project setup using Synmofy and Vuejs
+## Bit Calculator project setup using Symfony and Vuejs
 
 ## Backend Setup
 
